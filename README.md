@@ -28,6 +28,8 @@ To run ATLAS, run:
 
     $ ant run
 
+Finally, both the specifications inferred by ATLAS and the handwritten ground truth points-to specifications are available in the `models/` folder.
+
 Contact
 =====
 

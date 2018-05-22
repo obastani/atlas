@@ -1,0 +1,6 @@
+<project default="build">
+  <target name="build">
+    <mkdir dir="classes"/>
+    <javac srcdir="src" destdir="classes"/>
+  </target>
+</project>
